@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu desplegable</string>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="nav_header_title">Menu lateral - Ejemplo</string>
+    <string name="nav_header_subtitle">Carlos De la cruz - Anderson Montaño</string>
+    <string name="nav_header_desc">Menu de navegacion</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="menu_home">App moviles</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Presentaciones</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+</resources>
